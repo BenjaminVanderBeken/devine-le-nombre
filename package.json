@@ -1,11 +1,12 @@
 {
-  "name": "devine-le-nombre",
+  "name": "devine-le-nombrev2",
   "version": "1.0.0",
+  "description": "Devine le Nombre - Version 2 (avec IPC)",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "devDependencies": {
-    "electron": "^41.1.1"
+    "electron": "^28.0.0"
   }
 }
