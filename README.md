@@ -21,6 +21,7 @@ v1-renderer/
 └── renderer/
     ├── index.html      # Interface utilisateur (HTML + CSS)
     └── app.js          # Toute la logique du jeu (génération, comparaison, DOM)
+    
 Installation et lancement
 bashnpm install
 npm start
